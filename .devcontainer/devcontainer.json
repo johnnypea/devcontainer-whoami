@@ -1,0 +1,6 @@
+{
+    "name": "WHOAMI Test Container",
+    "dockerComposeFile": "compose.yaml",
+    "service": "whoami",
+    "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"
+}
